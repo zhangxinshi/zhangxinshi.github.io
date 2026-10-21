@@ -26,4 +26,8 @@ App Store（审核中）：https://apps.apple.com/app/id6825099015
 - 隐私政策：https://zhangxinshi.github.io/stonecrush/privacy
 - 更新日期：2026-10-21
 
-> 数独玩法，无真实货币赌博。
+## 说明
+
+- 游戏含广告与内购，具体以商店页为准
+- 适龄提示：12+
+- 产品名/商标/隐私政策以正式上架版本为准
