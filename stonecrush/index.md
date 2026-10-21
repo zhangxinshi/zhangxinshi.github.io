@@ -20,6 +20,8 @@
 
 App Store（审核中）：https://apps.apple.com/app/id6825099015
 
+TestFlight 公测：https://testflight.apple.com/join/GtaByxr8
+
 ## 支持
 
 - 支持邮箱：learndevelop@163.com
