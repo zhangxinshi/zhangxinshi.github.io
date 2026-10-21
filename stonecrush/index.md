@@ -24,6 +24,8 @@ TestFlight 公测：https://testflight.apple.com/join/GtaByxr8
 
 Android 测试版（侧载）：[StoneCrush-1.0.apk](download/StoneCrush-1.0.apk)
 
+![Android 下载二维码](images/apk_qr.png)
+
 
 ## 支持
 
