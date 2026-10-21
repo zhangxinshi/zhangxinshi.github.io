@@ -22,6 +22,8 @@ App Store（审核中）：https://apps.apple.com/app/id6825099015
 
 TestFlight 公测：https://testflight.apple.com/join/GtaByxr8
 
+Android 测试版（侧载）：[StoneCrush-1.0.apk](download/StoneCrush-1.0.apk)
+
 ## 支持
 
 - 支持邮箱：learndevelop@163.com
