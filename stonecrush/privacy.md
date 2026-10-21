@@ -3,9 +3,9 @@
 **更新日期：2026年10月21日　生效日期：2026年10月21日**
 **App Store ID：6825099015**
 
-**开发者：XindaGame　联系邮箱：learndevelop@163.com**
+**开发者：XindaGame　运营主体：Xinda Technology (Beijing) Co., Ltd.　联系邮箱：learndevelop@163.com**
 
-本游戏由开发者 **XindaGame**（以下简称"我们"）开发和运营。请您在使用本游戏前，仔细阅读并充分理解本隐私政策的全部内容。您点击"同意"后，即表示您已充分理解并同意本政策。本游戏主要面向中国大陆用户发布。
+本游戏由 **XindaGame** 品牌运营，运营主体为 **Xinda Technology (Beijing) Co., Ltd.**（以下简称"我们"）。请您在使用本游戏前，仔细阅读并充分理解本隐私政策的全部内容。您点击"同意"后，即表示您已充分理解并同意本政策。本游戏主要面向中国大陆用户发布。
 
 ## 一、我们如何收集和使用您的个人信息
 
@@ -69,6 +69,7 @@ iOS 端同时接入 Unity LevelPlay 广告聚合（含 Unity Ads 网络）。Lev
 ## 七、如何联系我们
 
 - 开发者：**XindaGame**
+- 运营主体：**Xinda Technology (Beijing) Co., Ltd.**
 - 联系邮箱：**learndevelop@163.com**
 
 我们将在核验您的身份后 15 个工作日内回复。
